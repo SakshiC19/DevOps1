@@ -9,3 +9,5 @@ if num == reverse:
   print('Palindrome')
 else:
   print("Not Palindrome")
+print("updated code")    
+    
